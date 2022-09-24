@@ -1,0 +1,16 @@
+{
+  "name": "ajindocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "ajin",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  }
+}
