@@ -27,29 +27,29 @@ export default {
         ],
         sidebar: {
             '/study/': [
-                {
-                  text: "Vue学习记录",
-                  collapsible: true,
-                  collapsed: true,
-                  items: [
-                  ],
-                },
-                {
-                  text: "NodeJS学习记录",
-                  collapsible: true,
-                  collapsed: true,
-                  items: [
-                    { text: 'node基础', link: '/study/NodeJS学习记录/node基础' },
-                    // { text: 'node进阶', link: '/study/NodeJS学习记录/进阶.md' },
-                  ],
-                },
-                {
-                  text: "Three.js学习",
-                  collapsible: true,
-                  collapsed: true,
-                  items: [
-                  ],
-                },
+              {
+                text: "JavaScript",
+                collapsible: true,
+                collapsed: true,
+                items: [
+                ],
+              },
+              {
+                text: "Vue",
+                collapsible: true,
+                collapsed: true,
+                items: [
+                ],
+              },
+              {
+                text: "NodeJS",
+                collapsible: true,
+                collapsed: true,
+                items: [
+                  { text: 'node基础', link: '/study/NodeJS/node基础' },
+                  // { text: 'node进阶', link: '/study/NodeJS/进阶.md' },
+                ],
+              },
             ],
             '/summary/': [
               {
